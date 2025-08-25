@@ -34,7 +34,7 @@ function Footer() {
             <FaInstagram />
           </a>
           <a 
-            href="mailto:your.shubham1041singh@gmail.com" 
+            href="mailto:shubham1041singh@gmail.com" 
             className="hover:text-blue-400 transition transform hover:scale-125"
           >
             <FaEnvelope />
