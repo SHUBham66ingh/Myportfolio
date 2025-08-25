@@ -20,7 +20,7 @@ function Profiles() {
     {
       name: "Portfolio",
       icon: <Globe className="w-10 h-10 text-white" />,
-      link: "https://your-portfolio.com",
+      link: "https://myportfolio-fn7l.vercel.app/",
     },
     {
       name: "Resume",
@@ -40,7 +40,7 @@ function Profiles() {
     {
       name : "Projects",
       icon : <Mail className="w-10 h-10 text-white" />,
-       link: "mailto:youremail@gmail.com",
+       link: "https://swggy-clone-pvqa.vercel.app/",
 
     }
   ];
