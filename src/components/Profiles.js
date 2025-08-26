@@ -25,7 +25,7 @@ function Profiles() {
     {
       name: "Resume",
       icon: <FileText className="w-10 h-10 text-white" />,
-      link: "https://drive.google.com/file/d/1-KgzgLpHty2uBpXIKhX_14IBDPEZqMbE/view?usp=sharing", // <-- place resume in public folder
+      link: "https://drive.google.com/file/d/1rReXOBVhALC4uCqYTXFdzfC-DPaG0WmD/view?usp=sharing", // <-- place resume in public folder
     },
     {
       name: "Instagram",
