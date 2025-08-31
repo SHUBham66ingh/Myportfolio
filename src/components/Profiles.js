@@ -40,7 +40,7 @@ function Profiles() {
     {
       name : "Projects",
       icon : <Mail className="w-10 h-10 text-white" />,
-       link: "https://swggy-clone-pvqa.vercel.app/",
+       link: "https://swiggyshu.netlify.app/",
 
     }
   ];
