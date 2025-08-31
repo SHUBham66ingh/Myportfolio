@@ -6,8 +6,9 @@ const faqs = [
   { question: "What technologies do I work with?", answer: "I work with React, Next.js, Tailwind, Node.js, Express, and MongoDB." },
   { question: "What projects have I built?", answer: "I’ve built projects like a Swiggy Clone, Weather App, Cricket Quiz, URL Shortener, TreeBio, and Enhanced Blockchain Video Calling (major project)." },
   { question: "Do I participate in hackathons?", answer: "Yes! I was selected in the top 25 teams in the SIH internal hackathon at my college." },
-  { question: "What are my hobbies?", answer: "I love playing football (main team of KIET), watching cricket, and exploring new technologies." },
+  { question: "What are my hobbies?", answer: "I love gymming, travelling, and playing cricket." },
 ];
+
 
 
 export default function FAQ() {
