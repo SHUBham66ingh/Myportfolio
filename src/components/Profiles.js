@@ -41,8 +41,13 @@ function Profiles() {
       name : "Projects",
       icon : <Mail className="w-10 h-10 text-white" />,
        link: "https://swiggyshu.netlify.app/",
+    },
+    {
+  name: "Codolio",
+  icon: <Code className="w-10 h-10 text-white" />,
+  link: "https://codolio.com/profile/shubham_sing18h",
+     }
 
-    }
   ];
 
   return (
