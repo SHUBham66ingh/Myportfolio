@@ -68,7 +68,6 @@ function Header() {
     { name: "Certificates", path: "/certificates" },
     { name: "Skills", path: "/skills" },
     { name: "Education", path: "/education" },
-    { name: "Gallery", path: "/hobbies" },
   ];
 
   const isActiveRoute = (path) => location.pathname === path;
