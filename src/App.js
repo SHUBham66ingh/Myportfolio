@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router";
 import Certificates from "../pages/Certificates";
 import Education from "../pages/Education";
 import Skills from "../pages/Skills";   
-import Hobbies from "../pages/Hobbies";
+// import Hobbies from "../pages/Hobbies";
 import "./index.css"; 
 
 function App() {
@@ -16,7 +16,6 @@ function App() {
           <Route path="/" element={<Home></Home>} />
           <Route path="/certificates" element={<Certificates></Certificates>} />
           <Route path="/education" element={<Education></Education>} />
-          <Route path="/hobbies" element={<Hobbies></Hobbies>} />
            <Route path="/skills" element={<Skills></Skills>} />
         </Routes>
       </BrowserRouter>
