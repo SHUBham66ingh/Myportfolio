@@ -103,26 +103,7 @@ function Header() {
           ))}
 
           {/* Dark Mode Toggle */}
-          <button
-            onClick={toggleDarkMode}
-            className="ml-2 lg:ml-4 p-2 lg:p-3 rounded-xl bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-600 transition-all duration-300 hover:scale-110 group"
-            aria-label="Toggle dark mode"
-          >
-            <div className="relative w-5 h-5 lg:w-6 lg:h-6">
-              <Sun 
-                size={20} 
-                className={`absolute inset-0 text-amber-500 transition-all duration-500 ${
-                  darkMode ? 'opacity-0 rotate-180 scale-0' : 'opacity-100 rotate-0 scale-100'
-                }`}
-              />
-              <Moon 
-                size={20} 
-                className={`absolute inset-0 text-blue-400 transition-all duration-500 ${
-                  darkMode ? 'opacity-100 rotate-0 scale-100' : 'opacity-0 -rotate-180 scale-0'
-                }`}
-              />
-            </div>
-          </button>
+         
         </nav>
 
         {/* Mobile Hamburger */}
