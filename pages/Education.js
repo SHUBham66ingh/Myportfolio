@@ -13,13 +13,13 @@ export default function Education() {
     {
       institute: "Navy Children School",
       degree: "Class 12 (CBSE)",
-      year: "2020 - 2022",
+      year: "2021 - 2022",
       desc: "Secured 96% in Class 12 with core subjects PCM (Physics, Chemistry, Mathematics). Awarded for academic excellence.",
     },
     {
       institute: "Navy Children School",
       degree: "Class 10 (CBSE)",
-      year: "2018 - 2020",
+      year: "2019 - 2020",
       desc: "Achieved 96% in Class 10 with distinction in Mathematics and Science. Developed leadership and team skills through co-curricular activities.",
     },
   ];
