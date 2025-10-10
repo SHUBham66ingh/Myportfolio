@@ -3,6 +3,11 @@ import Footer from "../src/components/Footer";
 
 export default function Certificates() {
   const certificates = [
+     {
+  title: "Completed Nexus Course by Rohit Negi",
+  desc: "Successfully completed the comprehensive Nexus web development course under the mentorship of Rohit Negi.",
+  link: "https://generateinvoice.teachx.in/generatecertificate/certificate/rohitnegi_db/17556/12866/4", 
+     },
     {
       title: "Solved more than 500 questions on all coding platforms",
       desc: "Showcasing strong problem-solving skills across multiple platforms.",
