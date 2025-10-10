@@ -22,7 +22,7 @@ function Body() {
 
         {/* Circular Profile Image */}
         <img 
-          src="https://i.ibb.co/DHP8VBR9/immmmggg.jpg" 
+          src="https://shubham-singh2345.imgbb.com/" 
           alt="Profile"
           className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover shadow-2xl relative z-10"
         />
