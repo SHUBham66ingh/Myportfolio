@@ -19,7 +19,7 @@ export default function Education() {
     {
       institute: "Navy Children School",
       degree: "Class 10 (CBSE)",
-      year: "2019 - 2020",
+      year: "2018 - 2019",
       desc: "Achieved 96% in Class 10 with distinction in Mathematics and Science. Developed leadership and team skills through co-curricular activities.",
     },
   ];
